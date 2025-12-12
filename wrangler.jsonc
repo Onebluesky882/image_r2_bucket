@@ -4,7 +4,7 @@
  */
 {
 	"$schema": "node_modules/wrangler/config-schema.json",
-	"name": "image-bucket",
+	"name": "images-bucket",
 	"main": "src/index.ts",
 	"compatibility_date": "2025-12-12",
 	"assets": {
